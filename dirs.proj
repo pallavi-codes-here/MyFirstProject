@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.Build.Traversal">
+  <ItemGroup>
+    <ProjectReference Include="Iris.Core\Iris.Core.csproj" />
+    <ProjectReference Include="Iris.Test\Iris.Test.csproj" />
+    <ProjectReference Include="Iris.WebApp\Iris.WebApp.csproj" />
+  </ItemGroup>
+</Project>
