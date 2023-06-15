@@ -1,3 +1,5 @@
+// Copyright (c) Pallavi Srivastava. All rights reserved.
+
 namespace Iris.WebApp;
 
 public class WeatherForecast

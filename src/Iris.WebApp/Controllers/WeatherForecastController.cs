@@ -1,3 +1,5 @@
+// Copyright (c) Pallavi Srivastava. All rights reserved.
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace Iris.WebApp.Controllers;
