@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": ".vscode/src.sln",
+    "FSharp.suggestGitignore": false
+}
